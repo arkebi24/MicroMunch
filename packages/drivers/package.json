@@ -1,0 +1,26 @@
+{
+  "name": "drivers",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "ritesh <britesh@anutanetworks.com>",
+  "homepage": "https://github.com/arkebi24/MicroMunch#readme",
+  "license": "ISC",
+  "main": "lib/drivers.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arkebi24/MicroMunch.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/drivers.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/arkebi24/MicroMunch/issues"
+  }
+}
